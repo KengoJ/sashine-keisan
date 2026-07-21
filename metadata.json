@@ -1,0 +1,6 @@
+{
+  "name": "指値・逆指値計算アプリ",
+  "description": "エントリー価格、許容損失、リスクリワード比から指値・逆指値、想定利益、推奨購入株数を算出する、資金管理とトレードプランのシミュレーター。Gemini AIによる多角的なリスク・テクニカル評価機能も搭載。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
