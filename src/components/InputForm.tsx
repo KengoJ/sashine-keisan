@@ -243,7 +243,7 @@ export const InputForm: FC<InputFormProps> = ({ inputs, setInputs }) => {
             <span className="w-1.5 h-3.5 bg-indigo-400 rounded-full"></span>
             市場構造（推奨）
           </span>
-          <span className="text-[10px] text-indigo-500 font-bold uppercase">Auto detection ready</span>
+          <span className="text-[10px] text-indigo-500 font-bold uppercase"></span>
         </h3>
         <p className="text-xs text-slate-400 mb-4 leading-relaxed">
           サポート・レジスタンスやボラティリティを考慮した、より高度な指値・逆指値が自動計算されます。
