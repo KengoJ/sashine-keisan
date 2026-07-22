@@ -11,7 +11,7 @@ export const Header: FC = () => {
           </div>
           <div>
             <h1 className="text-lg sm:text-xl font-bold tracking-tight text-slate-800 flex items-center gap-2">
-              指値計算機
+              指値・逆指値計算機！！
             </h1>
             <p className="text-slate-400 text-[11px] sm:text-xs">
               指値・逆指値 資金管理計算機 — 2%ルール基準のポジションサイズ算出
